@@ -1,0 +1,1 @@
+var names = animals.map((x) => x.name)

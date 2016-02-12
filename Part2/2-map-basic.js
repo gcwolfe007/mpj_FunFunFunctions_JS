@@ -1,0 +1,1 @@
+var names = animals.map(function(animal) { return animal.name })
